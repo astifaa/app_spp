@@ -1,0 +1,44 @@
+body[size="A5"][layout="potrait"]{
+	width: 29.7cm;
+	height: 21cm;
+}
+body{
+	font-family: calibri;
+}
+.bungkus{
+	width: auto;height: auto;
+}
+.wadah{
+	width: 700px;
+	height: 500px;
+	background-color: aqua;
+}
+.header{
+	width: 700px;
+	height: 100px;
+	background-color: black;
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	float: left;
+}
+.alamat{
+	width: 600px;
+	height: 100px;
+	background-color: yellow;
+	float: right;
+}
+.nama{
+	width: 700px;
+	height: 100px;
+	background-color: black;
+}
+.spp{
+	width: 173px;
+	height: 100px;
+	background-color: blue;
+	float: left;
+	border: solid 1px; 
+}
